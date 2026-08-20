@@ -1,9 +1,9 @@
-![ViewCount](https://views.whatilearened.today/views/github/navassherif98/Recipe-Generation-from-Food-Image.svg?cache=remove)
-
 # Recipe-Generation-from-Food-Image
 
+**Project By:** CHALAMSETTI SAI BHANU PRAKASH  
+**Email:** [2300080185aidsh@gmail.com](mailto:2300080185aidsh@gmail.com)
+
 ### Demo:
-![Recipe_Generation gif](https://user-images.githubusercontent.com/55757415/124395585-8d0d0780-dd22-11eb-86fe-3a23d921b608.gif)
 
 Are you ever in the situation where you have a mouthwatering picture of a delicious dish but no idea how to recreate it? Look no further! Our "Recipe Generation from Food Images" project harnesses the power of deep learning to provide you with a solution.
 
@@ -30,6 +30,7 @@ This innovative application uses state-of-the-art deep learning techniques to an
 ---
 
 ### Prerequisite :
+
 Download these files and replace it with the files in this folder "Foodimg2Ing/data/"
 
 1. Model (Modelbest.ckpt) : [Download Modelbest.ckpt](https://dl.fbaipublicfiles.com/inversecooking/modelbest.ckpt)
@@ -44,6 +45,4 @@ Download these files and replace it with the files in this folder "Foodimg2Ing/d
 2. Install all the required libraries using "pip install -r requirements.txt"
 3. run "python run.py"
 
-You will be getting a localhost link and open that link in your browser 
-
-
+You will be getting a localhost link and open that link in your browser
