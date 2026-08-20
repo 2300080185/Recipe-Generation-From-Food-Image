@@ -3,7 +3,11 @@
 **👨‍💻 Project By:** CHALAMSETTI SAI BHANU PRAKASH  
 **📧 Email:** [2300080185aidsh@gmail.com](mailto:2300080185aidsh@gmail.com)
 
-### Demo: ![Recipe_Generation gif](https://user-images.githubusercontent.com/55757415/124395585-8d0d0780-dd22-11eb-86fe-3a23d921b608.gif)
+# Recipe-Generation-from-Food-Image 
+
+### Demo: 
+![Recipe_Generation gif](https://user-images.githubusercontent.com/55757415/124395585-8d0d0780-dd22-11eb-86fe-3a23d921b608.gif) 
+
 Are you ever in the situation where you have a mouthwatering picture of a delicious dish but no idea how to recreate it? Look no further! Our "Recipe Generation from Food Images" project harnesses the power of deep learning to provide you with a solution.
 
 ### 📖 Overview:
